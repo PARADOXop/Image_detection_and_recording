@@ -25,7 +25,7 @@ class school :
     def school(cls):
         print(school.name)
 
-print(school.name)
+
 
 for i in range(1, n+1):
   S = 'S' + str(i)
