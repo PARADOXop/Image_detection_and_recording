@@ -2,7 +2,6 @@
 from datetime import datetime
 import cv2 
 import time
-import jovian
 import pandas as pd
 first_frame = None
 status_list = [None, None]
